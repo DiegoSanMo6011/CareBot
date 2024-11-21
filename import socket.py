@@ -1,7 +1,7 @@
 import socket
 
 
-HOST = '192.168.137.120'  # Reemplaza 'X.X' con la dirección IP de la Raspberry Pi en la red
+HOST = 'localhost'  # Reemplaza 'X.X' con la dirección IP de la Raspberry Pi en la red
 
 PORT = 65432          # Puerto en el que el servidor escucha
 
